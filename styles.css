@@ -1,0 +1,16 @@
+.c {
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+body {
+    font-family: system-ui;
+}
+
+.flex-media {
+    display: flex;
+    width: 150px;
+    height: 150px;
+    gap:5;
+}
